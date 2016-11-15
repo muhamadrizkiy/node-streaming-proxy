@@ -1,0 +1,276 @@
+[
+{
+    "_id" : "000001",
+    "stream_1" : "http://stream.suararadio.com:8000/rasikasragentina_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/rasikasragentina_mono"
+},
+{
+    "_id" : "000002",
+    "stream_1" : "http://stream.suararadio.com:8000/rasikapekalongan_mono",
+    "stream_2" : "http://stream.suararadio.com:8000/rasikapekalongan_mono"
+},
+{
+    "_id" : "000003",
+    "stream_1" : "http://stream.suararadio.com:8000/rasikasemarang_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/rasikasemarang_mono"
+},
+{
+    "_id" : "000004",
+    "stream_1" : "http://stream.suararadio.com:8000/trijayafm_mono",
+    "stream_2" : "http://stream.suararadio.com:8000/trijayafm_stereo",
+    "app_key"  : "33fcf76f94a0b4f7400a30f087989d19dec8bf4e",
+    "name" : "trijayafm"
+},
+{
+    "_id" : "000005",
+    "stream_1" : "http://stream.suararadio.com:8000/rdifmplg_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/rdifmplg_mono"
+},
+{
+    "_id" : "000008",
+    "stream_1" : "http://stream.suararadio.com:8000/rasikafm_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/rasikafm_mono"
+},
+{
+    "_id" : "000010",
+    "stream_1" : "http://stream.suararadio.com:8000/sukapurafm_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/sukapurafm_mp3"
+},
+{
+    "_id" : "000018",
+    "stream_1" : "http://stream.suararadio.com:8000/bandung_klitefm_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/bandung_klitefm_mp3"
+},
+{
+    "_id" : "000031",
+    "stream_1" : "http://streaming.topfm951.net:9510/listen.pls\r\n",
+    "stream_2" : "http://stream.suararadio.com:8000/topfm951_mono"
+},
+{
+    "_id" : "000033",
+    "stream_1" : "http://stream.suararadio.com:8000/trendfm_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/trendfm_mono"
+},
+{
+    "_id" : "000043",
+    "stream_1" : "http://stream.suararadio.com:8000/manggisfm_mono",
+    "stream_2" : "http://stream.suararadio.com:8000/manggisfm_mono"
+},
+{
+    "_id" : "000050",
+    "stream_1" : "http://stream.suararadio.com:8000/964_MANDALA_FM_Stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/964_MANDALA_FM_Mono"
+},
+{
+    "_id" : "000055",
+    "stream_1" : "http://stream.suararadio.com:8000/bangka_jessfm_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/bangka_jessfm_mp3"
+},
+{
+    "_id" : "000057",
+    "stream_1" : "http://stream.suararadio.com:8000/lampung_sgpfm_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/lampung_sgpfm_mono"
+},
+{
+    "_id" : "000066",
+    "stream_1" : "http://stream.suararadio.com:8000/rasilima_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/rasilima_mono"
+},
+{
+    "_id" : "000067",
+    "stream_1" : "http://stream.suararadio.com:8000/surabaya_djfm",
+    "stream_2" : "http://stream.suararadio.com:8000/surabaya_djfm"
+},
+{
+    "_id" : "000075",
+    "stream_1" : "http://stream.suararadio.com:8000/ichthusfm_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/Ichthusfm_Mono"
+},
+{
+    "_id" : "000078",
+    "stream_1" : "http://stream.suararadio.com:8000/iramafm_mono",
+    "stream_2" : "http://stream.suararadio.com:8000/iramafm_mono"
+},
+{
+    "_id" : "000090",
+    "stream_1" : "http://stream.suararadio.com:8000/sukoharjo_gesmafm_mono",
+    "stream_2" : "http://stream.suararadio.com:8000/sukoharjo_gesmafm_mono"
+},
+{
+    "_id" : "000104",
+    "stream_1" : "http://stream.suararadio.com:8000/Pematangsiantar_cekfm_stereo.m3u\r\n",
+    "stream_2" : "http://stream.suararadio.com:8000/Pematangsiantar_cekfm_mono"
+},
+{
+    "_id" : "000109",
+    "stream_1" : "http://stream.suararadio.com:8000/fastfm_magelang_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/fastfm_magelang_mono"
+},
+{
+    "_id" : "000118",
+    "stream_1" : "http://stream.suararadio.com:8000/pilarradio_cirebon_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/pilarradio_cirebon_mp3"
+},
+{
+    "_id" : "000119",
+    "stream_1" : "http://stream.suararadio.com:8000/sindangkasih_cirebon_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/sindangkasih_cirebon_mp3"
+},
+{
+    "_id" : "000148",
+    "stream_1" : "http://stream.suararadio.com:8000/blora_gpn2_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/blora_gpn2_mono"
+},
+{
+    "_id" : "000155",
+    "stream_1" : "http://stream.suararadio.com:8000/bangka_sonora",
+    "stream_2" : "http://stream.suararadio.com:8000/bangka_sonora"
+},
+{
+    "_id" : "000160",
+    "stream_1" : "http://stream.suararadio.com:8000/manado_radiomontini_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/manado_radiomontini_mono"
+},
+{
+    "_id" : "000164",
+    "stream_1" : "http://stream.suararadio.com:8000/karawaci_heartline_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/karawaci_heartline_mono"
+},
+{
+    "_id" : "000172",
+    "stream_1" : "http://stream.suararadio.com:8000//bangka_palupi",
+    "stream_2" : "http://stream.suararadio.com:8000//bangka_palupi"
+},
+{
+    "_id" : "000175",
+    "stream_1" : "http://stream.suararadio.com:8000//bangka_prima",
+    "stream_2" : "http://stream.suararadio.com:8000//bangka_prima"
+},
+{
+    "_id" : "000180",
+    "stream_1" : "http://stream.suararadio.com:8000/sengkang_suaraasdiyah_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/sengkang_suaraasdiyah_mono"
+},
+{
+    "_id" : "000186",
+    "stream_1" : "http://stream.suararadio.com:8000/pontianak_sonorapontianak_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/pontianak_sonorapontianak_mono"
+},
+{
+    "_id" : "000197",
+    "stream_1" : "http://stream.suararadio.com:8000/cirebon_sheltercirebon_mono",
+    "stream_2" : "http://stream.suararadio.com:8000/cirebon_sheltercirebon_mono",
+    "app_key"  : "833156a327c23c7c59825307029c693b6ae89469",
+    "name" : "sheltercirebon"
+},
+{
+    "_id" : "000210",
+    "stream_1" : "http://stream.suararadio.com:8000/bandaaceh_djatifm_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/bandaaceh_djatifm_mp3"
+},
+{
+    "_id" : "000213",
+    "stream_1" : "http://stream.suararadio.com:8000/singaraja_barong_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/singaraja_barong_mono"
+},
+{
+    "_id" : "000215",
+    "stream_1" : "http://stream.suararadio.com:8000/Malang_KalimayaBhaskara_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/Malang_KalimayaBhaskara_mono"
+},
+{
+    "_id" : "000216",
+    "stream_1" : "http://stream.suararadio.com:8000/purwokerto_sonora_aac",
+    "stream_2" : "http://stream.suararadio.com:8000/purwokerto_sonora_mp3"
+},
+{
+    "_id" : "000219",
+    "stream_1" : "http://stream.suararadio.com:8000/palembang_sonorapalembang_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/palembang_sonorapalembang_stereo"
+},
+{
+    "_id" : "000220",
+    "stream_1" : "http://stream.suararadio.com:8000/lampung_sonora",
+    "stream_2" : "http://stream.suararadio.com:8000/lampung_sonora"
+},
+{
+    "_id" : "000221",
+    "stream_1" : "http://stream.suararadio.com:8000/semarang_sonora_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/semarang_sonora_mp3"
+},
+{
+    "_id" : "000224",
+    "stream_1" : "http://stream.suararadio.com:8000/manado_manadoFM_aac",
+    "stream_2" : "http://stream.suararadio.com:8000/manado_manadoFM_mp3"
+},
+{
+    "_id" : "000225",
+    "stream_1" : "http://stream.suararadio.com:8000/bpostradio_banjarmasin_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/bpostradio_banjarmasin_mp3"
+},
+{
+    "_id" : "000226",
+    "stream_1" : "http://stream.suararadio.com:8000/bali_989balifm_aac",
+    "stream_2" : "http://stream.suararadio.com:8000/bali_989balifm_mp3"
+},
+{
+    "_id" : "000227",
+    "stream_1" : "http://stream.suararadio.com:8000/dbfm_cirebon_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/dbfm_cirebon_mp3"
+},
+{
+    "_id" : "000230",
+    "stream_1" : "http://stream.suararadio.com:8000/solo_riafm_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/solo_riafm_mp3"
+},
+{
+    "_id" : "000231",
+    "stream_1" : "http://stream.suararadio.com:8000/surabaya_sonorasurabaya_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono"
+},
+{
+    "_id" : "000234",
+    "stream_1" : "http://stream.suararadio.com:8000/garut_masprofm",
+    "stream_2" : "http://stream.suararadio.com:8000/garut_masprofm"
+},
+{
+    "_id" : "000235",
+    "stream_1" : "http://stream.suararadio.com:8000/surabaya_mercuryfm",
+    "stream_2" : "http://stream.suararadio.com:8000/surabaya_mercuryfm"
+},
+{
+    "_id" : "000236",
+    "stream_1" : "http://stream.suararadio.com:8000/surabaya_kotafm",
+    "stream_2" : "http://stream.suararadio.com:8000/surabaya_kotafm"
+},
+{
+    "_id" : "000237",
+    "stream_1" : "http://stream.suararadio.com:8000/surabaya_globalfm",
+    "stream_2" : "http://stream.suararadio.com:8000/surabaya_globalfm"
+},
+{
+    "_id" : "000239",
+    "stream_1" : "http://stream.suararadio.com:8000/palembang_smartfm_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/palembang_smartfm_mp3"
+},
+{
+    "_id" : "002026",
+    "stream_1" : "http://stream.suararadio.com:8000/99ers_bandung_aac",
+    "stream_2" : "http://stream.suararadio.com:8000/99ers_bandung_aac"
+},
+{
+    "_id" : "009915",
+    "stream_1" : "http://stream.suararadio.com:8000/radio2020_mp3",
+    "stream_2" : "http://stream.suararadio.com:8000/radio2020_mp3"
+},
+{
+    "_id" : "010078",
+    "stream_1" : "http://stream.suararadio.com:8000/jakarta_musicreview_stereo",
+    "stream_2" : "http://stream.suararadio.com:8000/jakarta_musicreview_mono"
+},
+{
+    "_id" : "999999",
+    "stream_1" : "",
+    "stream_2" : ""
+}
+]
